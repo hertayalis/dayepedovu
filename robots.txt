@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dayepedovu.pages.dev/sitemap.xml
